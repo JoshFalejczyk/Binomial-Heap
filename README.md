@@ -13,7 +13,7 @@ Functions/Usage:
 8. Copy Constructor/Copy Assignment Operator (included for good practice of dynamic memory allocation)
 9. Destructor (properly frees manually allocated memory within BHeap)
 
-To Run: 
+To Run (on Bash): 
 1. Compile using "make" or "g++ -Wall 201MainPhase3BHeap.cpp".
 2. Run using "./phase3" for the former compilation command, or "./a.exe" (or "./a.out" if on Mac) for the latter.
 
